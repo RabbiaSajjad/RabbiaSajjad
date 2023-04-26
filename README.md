@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://medium.com/@rabbiaasajjad](https://medium.com/@rabbiaasajjad)
+- 📝 I write articles on [https://medium.com/@rabbiaasajjad](https://medium.com/@rabbiaasajjad)
 
 - 📫 How to reach me **rabbiaasajjad@gmail.com**
 
